@@ -29,47 +29,8 @@
   </url>
   
   <url>
-    <loc>https://iani.github.io/sudel/tags/bootstrap/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iani.github.io/sudel/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iani.github.io/sudel/tags/css/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iani.github.io/sudel/tags/go/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iani.github.io/sudel/tags/golang/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iani.github.io/sudel/tags/highlight-js/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iani.github.io/sudel/tags/html/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iani.github.io/sudel/tags/hugo/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iani.github.io/sudel/tags/js/</loc>
+    <loc>https://iani.github.io/sudel/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -81,27 +42,6 @@
   
   <url>
     <loc>https://iani.github.io/sudel/project/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iani.github.io/sudel/tags/responsive/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iani.github.io/sudel/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iani.github.io/sudel/tags/syntax-highlighting/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iani.github.io/sudel/tags/</loc>
     <priority>0</priority>
   </url>
   

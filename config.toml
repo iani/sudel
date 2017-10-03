@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "https://iani.github.io/sudel"
 languageCode = "en-us"
 title = "Sudel"
 theme = "minimal"

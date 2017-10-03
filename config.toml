@@ -4,6 +4,8 @@ title = "Sudel"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 
+publishDir = "docs"
+
 [params]
     author = "Iannis Zannos"
     description = "Sudelbuch: Tsure notes"

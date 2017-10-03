@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://iani.github.io/sudel/project/project1/</loc>
+    <loc>https://iani.github.io/sudel/gallery/project1/</loc>
   </url>
   
   <url>
-    <loc>https://iani.github.io/sudel/project/project2/</loc>
+    <loc>https://iani.github.io/sudel/gallery/project2/</loc>
   </url>
   
   <url>
-    <loc>https://iani.github.io/sudel/project/project3/</loc>
+    <loc>https://iani.github.io/sudel/gallery/project3/</loc>
   </url>
   
   <url>
-    <loc>https://iani.github.io/sudel/project/project4/</loc>
+    <loc>https://iani.github.io/sudel/gallery/project4/</loc>
   </url>
   
   <url>
@@ -29,6 +29,11 @@
   </url>
   
   <url>
+    <loc>https://iani.github.io/sudel/gallery/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://iani.github.io/sudel/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -37,11 +42,6 @@
   <url>
     <loc>https://iani.github.io/sudel/post/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iani.github.io/sudel/project/</loc>
     <priority>0</priority>
   </url>
   

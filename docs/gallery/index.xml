@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Osprey Example Site</title>
-    <link>https://iani.github.io/sudel/</link>
-    <description>Recent content on Osprey Example Site</description>
+    <title>Galleries on Osprey Example Site</title>
+    <link>https://iani.github.io/sudel/gallery/</link>
+    <description>Recent content in Galleries on Osprey Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://iani.github.io/sudel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iani.github.io/sudel/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -45,25 +44,6 @@
       
       <guid>https://iani.github.io/sudel/gallery/project4/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://iani.github.io/sudel/post/hello/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://iani.github.io/sudel/post/hello/</guid>
-      <description>Hello There</description>
-    </item>
-    
-    <item>
-      <title>old sudel test</title>
-      <link>https://iani.github.io/sudel/post/old-sudel/</link>
-      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://iani.github.io/sudel/post/old-sudel/</guid>
-      <description>2015 2015-03 March 2015-03-31 Tuesday blackmax: comprehensive black hole event generator :PROPERTIES: :DATE: :END:
-http://blackmax.hepforge.org/</description>
     </item>
     
   </channel>

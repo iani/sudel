@@ -3,7 +3,7 @@ baseURL = "https://iani.github.io/sudel"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
-theme = "osprey"
+theme = "Mainroad"
 canonifyURLS = true
 googleAnalytics = ""
 disqusShortname = "iani"
@@ -11,40 +11,28 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
 
 publishdir = "docs"
 
-[Params]
-    tagline = "Sudelbuechlein"
-    AUTHOR = "Iannis Zannos"
-    description = "Computer Music and Interactive Media Arts"
-    logoBig = "/images/osprey-logo.png"
-    logoSmall = "/images/osprey-logo.png"
-    favicon = "favicon.ico"
-    opengraphImage = "/images/osprey.png"
-    twitter = "TomaNistor"
-    linkedin = "tomanistor"
-    github = "tomanistor"
-    email = ""
-    googleTagManger = ""
-    highlightJS = true
-    copyright = true
-    credit = true
-    customCSS = false
-    cacheBustCSS = false
-    cacheBustJS = false
-    ajaxFormspree = true
 
-[[menu.main]]
-    name = "About"
-    url  = "/#about"
-    weight = 1
-[[menu.main]]
-    name = "Work"
-    url  = "/#work"
-    weight = 2
-[[menu.main]]
-    name = "Blog"
-    url  = "/#blog"
-    weight = 3
-[[menu.main]]
-    name = "Contact"
-    url  = "/#contact"
-    weight = 4
+[Author]
+    name = "Iannis Zannos"
+    bio = "Computer Music and Interactive Media Arts"
+    avatar = "img/avatar.png"
+
+
+[Params]
+    subtitle = "Sudelbüchlein" # Subtitle of your site
+    description = "Iannis Zannos Personal blog about everything" # Description of your site
+    opengraph = true
+    readmore = false # Show "Read more" button in list if true
+    leftsidebar = false # Move sidebar to the left side if true
+    authorbox = true
+    post_navigation = true
+    postSections = ["post"]
+
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent arcticles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+        tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
